@@ -1,0 +1,91 @@
+﻿SampleID,Treatment,WeekOfTissueCollection,ProbioticStrain,ProbioticSpecies,RSB5.4,THA2.2,RSB5.11
+P1F1W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F10W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F11W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F12W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F13W3,P1,Week3,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F14W3,P1,Week3,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F15W3,P1,Week3,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F16W3,P1,Week3,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F17W3,P1,Week3,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F18W3,P1,Week3,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F2W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F3W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F4W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F5W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F6W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F7W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F8W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P1F9W1,P1,Week1,RSB5.4,Pseudomonas sp.,yes,no,no
+P2F1W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F10W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F11W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F12W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F13W3,P2,Week3,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F14W3,P2,Week3,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F15W3,P2,Week3,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F16W3,P2,Week3,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F17W3,P2,Week3,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F18W3,P2,Week3,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F2W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F3W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F4W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F5W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F6W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F7W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F8W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P2F9W1,P2,Week1,THA2.2,Stenotrophomonas sp.,no,yes,no
+P3F1W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F10W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F11W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F12W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F13W3,P3,Week3,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F14W3,P3,Week3,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F15W3,P3,Week3,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F16W3,P3,Week3,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F17W3,P3,Week3,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F18W3,P3,Week3,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F2W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F3W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F4W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F5W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F6W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F7W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F8W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P3F9W1,P3,Week1,RSB5.11,Pseudomonas sp.,no,no,yes
+P4F1W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F10W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F11W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F12W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F13W3,P4,Week3,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F14W3,P4,Week3,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F15W3,P4,Week3,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F16W3,P4,Week3,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F17W3,P4,Week3,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F18W3,P4,Week3,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F2W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F3W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F4W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F5W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F6W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F7W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F8W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+P4F9W1,P4,Week1,"cocktail RSB5.4, THA2.2, RSB5.11",cocktail,yes,yes,yes
+CF1W1,Control,Week1,NA,NA,no,no,no
+CF10W1,Control,Week1,NA,NA,no,no,no
+CF11W1,Control,Week1,NA,NA,no,no,no
+CF12W1,Control,Week1,NA,NA,no,no,no
+CF13W3,Control,Week3,NA,NA,no,no,no
+CF14W3,Control,Week3,NA,NA,no,no,no
+CF15W3,Control,Week3,NA,NA,no,no,no
+CF16W3,Control,Week3,NA,NA,no,no,no
+CF17W3,Control,Week3,NA,NA,no,no,no
+CF18W3,Control,Week3,NA,NA,no,no,no
+CF2W1,Control,Week1,NA,NA,no,no,no
+CF3W1,Control,Week1,NA,NA,no,no,no
+CF4W1,Control,Week1,NA,NA,no,no,no
+CF5W1,Control,Week1,NA,NA,no,no,no
+CF6W1,Control,Week1,NA,NA,no,no,no
+CF7W1,Control,Week1,NA,NA,no,no,no
+CF8W1,Control,Week1,NA,NA,no,no,no
+CF9W1,Control,Week1,NA,NA,no,no,no
