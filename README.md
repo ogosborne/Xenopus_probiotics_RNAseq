@@ -11,4 +11,4 @@ Code for RNAseq analysis of Xenopus laevis frogs following inoculation with prob
 ## Files
 
 1. **data/sample_sheet.csv**: sample sheet used in **code/nfcore_rnaseq.sh**
-2. 
+2. **data/sample_data.csv**: sample metadata used in **code/Expression_analysis.R**
