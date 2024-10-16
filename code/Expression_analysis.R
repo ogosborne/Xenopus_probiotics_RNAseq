@@ -219,6 +219,7 @@ heatmap.2(hm_dat,
 
 ##### 6. GENE MODULE - MICROBIOME CORRELATION 
 # load MB data
+# microbiome data files created using code in https://github.com/kvasir7/Smithsonian_Xenopus_Probiotic_Project
 # ASV table
 featfile <- "data/metabarcoding_final/vJDM_XENGPRO2022_feature_table_comborunFINAL_rarefy_3_7_24.csv"
 featureTab <- read.csv(featfile, header = T, row.names = 1)
